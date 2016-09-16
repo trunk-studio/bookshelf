@@ -10,6 +10,16 @@
 4. [打造成功UI／UX的50個關鍵：用魔鬼的細節創造極致使用者體驗](http://www.tenlong.com.tw/items/986434143X?item_id=1022946)
 5. [UX策略｜設計讓人夢寐以求的創新數位產品](http://www.tenlong.com.tw/items/9864761420?item_id=1022881)
 
+## 
+
+* [無瑕的程式碼：敏捷軟體開發技巧守則（Clean Code）]
+* [無瑕的程式碼 番外篇：專業程式設計師的生存之道](https://www.tenlong.com.tw/events/106)
+* [重構：改善既有程式的設計 (二版)](http://www.books.com.tw/products/0010411649)
+* [Specification by Example 中文版：團隊如何交付正確的軟體](http://www.tenlong.com.tw/items/9862019484)
+* [Kent Beck 的實作模式](http://www.tenlong.com.tw/items/9862018089?item_id=886065)
+* [物件導向設計模式 Design Patterns](http://www.tenlong.com.tw/items/9572054112?item_id=997944)
+
+
 ## 延伸閱讀
 
 * [每個程式設計師應該閱讀的10本經典書籍](https://read01.com/zPy7Q4.html)
