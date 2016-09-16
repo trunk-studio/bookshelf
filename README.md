@@ -13,6 +13,7 @@
 ## NEW
 
 * [打造最強網頁UI/UX設計腦：設計師都該懂的絕佳設計．溝通法則](http://www.books.com.tw/products/0010723121)
+* [別做天兵設計！傾聽、思考、表達，滿足使用者體驗的 0 盲點設計關鍵](http://www.tenlong.com.tw/items/9865751763?item_id=1005446)
 
 ## TEMP
 
